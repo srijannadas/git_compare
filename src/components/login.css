@@ -1,0 +1,25 @@
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  margin-bottom: 10px;
+}
+
+.submit-button {
+  margin-bottom: 10px;
+}
+
+.or-text {
+  margin-bottom: 10px;
+}
+
+.sign-up-button {
+  margin-bottom: 10px;
+}
+
+.forgot-password-button {
+  margin-bottom: 10px;
+}
